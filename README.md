@@ -1,4 +1,3 @@
-# hello-world
-Statistics and Quality Course Materials
+# Статистика и качество
 
 Материалы курса "Статистика и качество" на платформе Stepik.
